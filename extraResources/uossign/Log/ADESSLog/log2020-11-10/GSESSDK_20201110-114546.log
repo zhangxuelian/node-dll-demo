@@ -1,0 +1,16 @@
+Log file created at: 2020/11/10 11:45:46
+Running on machine: gosuncn-PC
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+20201110T11:45:46.115155 INFO 初始化SDK成功
+20201110T11:45:49.181447 ERROR 签名Json信息:{
+	"cmdtype":	"request",
+	"cmd":	"p_sign",
+	"parameters":	{
+		"p_signtype":	0,
+		"p_srcfile":	"http://192.168.37.65:9696/srcpdf/media/gosuncn/_dde_data/projects/intg-terminal/123456_origin.pdf",
+		"p_destfile":	"http://192.168.37.65:9696/destpdf/media/gosuncn/_dde_data/projects/intg-terminal/123456_sign.pdf",
+		"p_multisignlocation":	""
+	}
+}
+20201110T11:45:49.391563 INFO 收到下载pdf文件消息
+20201110T11:45:49.432453 INFO 下载pdf文件完成
